@@ -1,0 +1,9 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions 问题讨论
+    url: https://github.com/orgs/gavinblog/discussions
+    about: Please ask questions in Discussion. 请在讨论中提问。
+
+  - name: Theme Documentation 主题文档
+    url: https://gavinblog.github.io/stellar/categories/%E5%BB%BA%E7%AB%99/
+    about: Please read the documentation carefully. 请先仔细阅读主题文档。
