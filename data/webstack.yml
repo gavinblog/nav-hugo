@@ -5,26 +5,77 @@
   list: 
     - term: 博客
       links:
-        - title: 毕少侠
+        - title: 毕少侠-Home
+          logo: default2.webp
+          url: https://home.geekswg.top
+          description: 毕少侠个人主页 Powered By Vue
+        - title: 毕少侠-Hugo
           logo: default2.webp
           url: https://geekswg.js.cool
           #qrcode: assets/images/logos/qrcode.jpg
           description: 毕少侠也在江湖，Hugo博客 【Powered By Hugo-theme-FixIt】
-        - title: 毕少侠 Hexo
+        - title: 毕少侠-Hexo
           logo: default2.webp
           url: https://hexo.geekswg.top
           description: 毕少侠也在江湖，Hugo博客 【Powered By Hexo-theme-Anzhiyu】
+        - title: 毕少侠-Nav
+          logo: default2.webp
+          url: https://nav.geekswg.top
+          description: 毕少侠搜索导航 Powered By Hugo-Webstack
+    - term: Tools-Online
+      links:
+        - title: 毕少侠图床
+          logo: default2.webp
+          url: https://gavinblog.github.io/picx/#/upload
+          description: 毕少侠自建图床 【Powered By Picx】
+        - title: 在线工具
+          logo: default2.webp
+          url: https://tool.lu/
+          description: 稳定免费的在线工具聚合网站
+        - title: 菜鸟教程
+          logo: default2.webp
+          url: https://www.runoob.com/
+          description: 菜鸟教程提供了最全的的web技术基础教程,介绍了HTML教程、CSS教程、Javascript教程、Python基础教程，PHP教程等各种建站基础。
+        - title: 菜鸟工具
+          logo: default2.webp
+          url: https://c.runoob.com/
+          description: 稳定免费的在线工具
     - term: AI
       links:
-        - title: 毕少侠
+        - title: 毕少侠-ChatGPT
           logo: "default2.webp"
-          url: https://geekswg.js.cool
+          url: https://chatgpt.geekswg.top
           #qrcode: assets/images/logos/qrcode.jpg
-          description: 毕少侠也在江湖，Hugo博客 【Powered By Hugo-theme-FixIt】
-        - title: 毕少侠 Hexo
+          description: 毕少侠自建ChatGPT代理 【Powered By ChatGPT-Next-Web】
+        - title: "毕少侠-New Bing"
           logo: default2.webp
-          url: https://hexo.geekswg.top
-          description: 毕少侠也在江湖，Hugo博客 【Powered By Hexo-theme-Anzhiyu】
+          url: https://bingai.geekswg.top
+          description: 毕少侠New-Bing国内代理 【Powered By go-proxy-bingai】
+        - title: OpenAI-ChatGPT
+          logo: "default2.webp"
+          url: https://chat.openai.com/
+          description: OpenAI,ChatGPT
+        - title: "科大讯飞-星火"
+          logo: default2.webp
+          url: https://xinghuo.xfyun.cn/
+          description: 讯飞星火认知大模型
+        - title: "百度-文心一言"
+          logo: default2.webp
+          url: https://yiyan.baidu.com/
+          description: 文心一言知识增强大语言模型
+        - title: "百度-文心一言"
+          logo: default2.webp
+          url: https://yiyan.baidu.com/
+          description: 文心一言知识增强大语言模型
+        - title: "Google-Bard"
+          logo: default2.webp
+          url: https://bard.google.com/
+          description: "Google Bard"
+        - title: "Cursor"
+          logo: default2.webp
+          url: https://cursor.so/
+          description: "Cursor"
+          
     
 - taxonomy: 常用推荐
   icon: far fa-star
